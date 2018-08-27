@@ -1,0 +1,7 @@
+{
+  "name": "erase-h5y-get-one",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
